@@ -7,12 +7,12 @@ export const personalData = {
   phone: '+91 6290600265',
   address: '84/1/1 Abinash Banerjee Lane, Howrah - 711104, West Bengal. ',
   
-  github: 'https://github.com/said7388',
-  facebook: 'https://www.facebook.com/abusaid.riyaz/',
-  linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
-  twitter: 'https://twitter.com/said7388',
+  github: 'https://github.com/paul8478',
+  facebook: '',
+  linkedIn: '',
+  twitter: '',
   stackOverflow: '',
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
-  resume: "/resume/ddu.txt"
+  leetcode: "",
+  devUsername: "",
+  resume: ""
 }
